@@ -1,0 +1,3 @@
+electron
+launcher/build
+**/*.exe
